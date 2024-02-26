@@ -1,11 +1,6 @@
 body{
-     margin:0;   /* 원래 기본 background는 margin이 8이다. */
-     background-image: url("/images/background.jpg"); 
+    margin:0;   /* 원래 기본 background는 margin이 8이다. */
+    background-image: url("/images/background.jpg");  /* css에서 이미지 가져오기 */
     background-repeat: no-repeat; /* 공간채우기위해 여러개 들어가는 것을 금지, 한개만 */
     background-size: cover; /* cover는 검색해보기 */
-    /* background-color: red; */
-}
-
-h1{
-    
 }
