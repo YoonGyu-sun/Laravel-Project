@@ -11,8 +11,7 @@
 <body>
     <h1>Hello world</h1>
 
-
-    
+    <a href="/login">가입하러 가기</a>
     
 </body>
 </html>
